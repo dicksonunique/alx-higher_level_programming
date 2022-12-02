@@ -41,4 +41,4 @@ def div(a, b):
     Returns:
         The return value. a / b
     """
-    return int(a / b)s
+    return int(a / b)
