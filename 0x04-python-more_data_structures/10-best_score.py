@@ -9,5 +9,5 @@ def best_score(a_dictionary):
         for i in my_list:
             if a_dictionary[i] > score:
                 score = a_dictionary[i]
-                leader = i
+                high_score = i
         return high_score
